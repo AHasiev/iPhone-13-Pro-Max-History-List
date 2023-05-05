@@ -12,7 +12,7 @@
 
 .header_burgerImg {
   height: 11.5px;
-  width: 15.499999046325684px;
+  width: 15px;
   margin-left: 16.25px;
   margin-top: 20.25px;
 }
@@ -40,43 +40,32 @@
   width: 404px;
   height: 700px;
 }
-.main_data {
-  height: 24px;
-  width: 81px;
-  margin-left: 12px;
-  margin-top: 12px;
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-}
 
-.main_blockOne,
-.main_blocktwo {
+.main_block {
   display: flex;
-  width: 404px;
+  width: 428px;
   height: 49px;
 }
 
-.main_data {
+.main_block_data {
   font-family: Roboto;
+  text-align: left;
+  height: 24px;
+  margin-left: 25px;
+  margin-top: 36px;
+  width: 81px;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  text-align: left;
-  height: 24px;
-  width: 81px;
-  margin-left: 25px;
-  margin-top: 36px;
 }
 
-.main_weight {
+.main_block_weight {
   margin-left: 74px;
   margin-top: 40px;
 }
 
-.main_delete {
-  height: 19.993616104125977px;
+.main_block_delete {
+  height: 19px;
   width: 15.5px;
   margin-left: 4.25px;
   margin-top: 2.25px;
